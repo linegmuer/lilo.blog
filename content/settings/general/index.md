@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Line"
-description = "A Lifelong Journey"
+title = "Line Gmür"
+description = "a lifelong journey"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
