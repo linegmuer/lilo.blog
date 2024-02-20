@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
-![](/img/default-author.jpg)
+Line Gmür
 
-## My Name
+line.gmuer@stud.gymhofwil.ch
 
-mail@example.org
-
-Here should be some info about me...
+Hallo ich bin Line Gmür. Ich gehe momentan ans Gymnasium Hofwil und arbeite hier im Deutschunterricht an einem Reportage Projekt. Mia und ich haben zusammen einen Tag im Kloster verbracht und ein interview mit einer Schwester geführt. Hier findet ihr das Ergebnis unseres Reportage Projektes. Viel Spass beim Lesen!
