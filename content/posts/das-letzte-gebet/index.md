@@ -10,16 +10,19 @@ description = "\n\n\n\n"
 
 Mia Flühmann und Line Gmür 
 
-![Zeuginnen der Vergangenheit: Schädel von ehemaligen Schwestern, die im Laufe der 400-jährigen Existenz im Kloster Namen Jesú verstorben sind. (Fotografie von Mia Flühmann, Stand: 5.1.24)](lets-go.jpeg)
+![Zeuginnen der Vergangenheit: Schädel ehemaliger Schwestern, die im Laufe der 400-jährigen Existenz im Kloster Namen Jesú verstorben sind. (Fotografie von Mia Flühmann, Stand: 5.1.24)](lets-go.jpeg)
 
 Das Läuten der Glocke hallt durch weitläufige Gänge. Mit dem letzten Schlag kehrt wieder Stille ein. Eine Stille, die für die Bewohnerinnen dieses Gemäuers alltäglich ist. Kurze Zeit darauf hört man von verschiedenen Seiten schlurfende Schritte, die alle das gleiche Ziel haben: das Gebetszimmer. In einem Zimmer mit Wänden, die dem Raum einen holzigen Geruch verleihen, finden sich vier Frauen ein. Bedächtig verbeugt sich eine nach der anderen vor dem Kreuz, bevor sie auf den kissenlosen Holzbänken Platz nehmen. Bis auf Husten und Atmen ist nichts zu hören. Als Letzte betritt Frau Mutter, die Oberin, den Raum. Sie nimmt als Einzige auf einem gepolsterten Stuhl Platz und läutet mit der Klangschale das Mittagsgebet im Kloster Namen Jesú in Solothurn ein.
 
-*Herr Jesus Christus, du Anfang und Ende unserer Wege*\
-*Wir wollen mit dir beginnen*\
-*Es sind die alten Wege, die damals gegangen*\
-*als du mit uns anfingst in der Taufe*
 
-*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+###*Herr Jesus Christus, du Anfang und Ende unserer Wege*\
+###*Wir wollen mit dir beginnen*\
+###*Es sind die alten Wege, die damals gegangen*\
+###*als du mit uns anfingst in der Taufe*
+
+###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+
+
 
 Hinter der Holztür, auf deren Türrahmen der Schriftzug C+M+B 23 steht, eröffnet sich das Labyrinth. Ein Geflecht aus Gängen, in dem sich ausschliesslich die Schwestern zurechtfinden. Zuerst betritt man ein Vorzimmer, wo wohl früher eine Schwester die Gäste am Empfang begrüsste. Doch seit jeher ist einige Zeit vergangen und so muss man selbst an der geflochtenen Kordel ziehen, um die Glocke zu betätigen.\
 Schon kommt Schwester Therese um die Ecke, als hätte sie auf uns gewartet. Lächelnd begrüsst sie uns. Eine Begrüssung, die von der Gastfreundschaft der Kapuzinerinnen zeugt. Gemächlich werden wir durch einen dunklen, etwas muffig riechenden Korridor geführt, vorbei an einem Trottinett. Dieses Gefährt würde man in einem Kloster nicht vermuten, doch manchmal rollt die Oberin, Schwester Priska, damit durch die weitläufigen Gänge. Geht man morgens durch das Gebäude, so trifft man an den verschiedensten Ecken auf die Schwestern. Jede hat ihre Aufgaben. Schwester Regina trifft man im Esssaal an. Dort staubt die 92-jährige Luzernerin die Bänke mit einem bunten Staubwedel ab oder deckt bereits den Tisch für das Mittagessen. Es soll heute Raclette geben, doch ob man dafür Fondue-Gabeln oder Raclette-Pfännchen benutzt, muss Schwester Regina erst noch nachfragen.
@@ -28,12 +31,16 @@ An den Esssaal grenzt eine geräumige Küche. Der Edelstahl glänzt und alles wi
 
 
 
+###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+
+
+
 Unser Rundgang führt uns weiter zum Lift. Auch dieser wurde gebaut, um das Leben der Schwesternschaft zu erleichtern. Gemeinsam mit Schwester Therese und Schwester Marta fahren wir in den Estrich. Alte Balken und Schnüre, an denen früher Wäsche hing, unebener Boden, modrige kühle Luft und alte Kisten. Es ist eine Zeitreise dahin zurück, als das Klosterleben seine Blütezeit erlebte. Schwester Marta ist mit 19 Jahren in dieses Kloster eingetreten und somit die Dienstälteste. Lächelnd denkt sie zurück an die Zeit, als das Kloster Namen Jesú noch 38 Schwestern zählte. Die gebürtige Solothurnerin lebt schon immer in dieser Stadt und besuchte die Schule dieses Klosters. Gerne fährt die 93-Jährige noch heute mit dem Fahrrad ins Stadtzentrum oder hilft dem Gärtner. Sie liebt ihre Arbeit und denkt nicht daran, sich auf ihrem Alter auszuruhen.\
 Mit einem Batch öffnet Schwester Therese die Tür zum hauseigenen Museum. In einem schwach beleuchteten Raum türmen sich Gegenstände aus der Apotheke,  der Schuhmacherei, der Landwirtschaft und der Metzgerei.  “Diese Dinge sollten alle weggeworfen werden. Wenn sie dafür in den Keller gebracht wurden, habe ich sie auf der anderen Seite wieder hochgetragen und in meinem Zimmer oder hier oben versteckt”, erklärt Schwester Marta. Dank ihrer Sammelleidenschaft konnten die Schwestern ihr eigenes Museum errichten. Bisher hatten nur vereinzelt Besuchende Zutritt. Schwester Therese meint aber, ihr Wunsch sei es, das Museum besonders für Schulen zugänglich zu machen, damit dieses traditionelle Leben nicht in Vergessenheit gerate. 
 
 
 
-Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.
+###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -42,14 +49,17 @@ Für Schwester Therese geht es nun an ihre Arbeit. Sie ist für Kirche und Sakri
 \
 Nach dem Mittagsgebet im Gebetszimmer schreitet die Gemeinschaft bedächtig in den Esssaal. Früher schwiegen die Schwestern bei Tische, doch da sie nur noch zu fünft sind, plaudern sie mittlerweile. Es wird in Erinnerungen geschwelgt, über die Arbeit und Verwandte gesprochen oder über die Zukunft geredet. Letzteres scheint nicht allen Schwestern gleich leicht zu fallen, ihnen allen ist klar: Der Klosteralltag wird nicht mehr von langer Dauer sein. Schwester Therese pflegt zu sagen: «Ich gebe dem ganzen noch fünf Jahre.» Wie genau diese Prognose ist, kann man wohl nicht sagen, doch mit dem Ableben der Schwestern wird auch das Klosterleben sterben. Es scheint fast, als würde diese Tatsache die Schwestern mehr belasten als ihre eigene Vergänglichkeit. Früher war das Klosterleben für Frauen ein sozialer Aufstieg. Heute jedoch stehen ihnen viele Türen offen. Das zurückgezogene Leben scheint für jüngere Generationen nicht mehr attraktiv zu sein. Schwester Therese ist vor 30 Jahren als Letzte in das Kloster eingetreten. In dieser Zeit haben etwa 20 Schwestern das Kloster verlassen oder sind verstorben. Die verbliebenen fünf versuchen aber tagtäglich das Beste daraus zu machen und lösungsorientiert in die Zukunft zu blicken.
 
-> ”Ich gebe dem Ganzen noch fünf Jahre” (Schwester Therese)
 
-\
+
+> *”Ich gebe dem Ganzen noch fünf Jahre” (Schwester Therese)*
+
+
+
 Im ersten Stock befinden sich die Zellen, die Schlafzimmer. Viele von ihnen stehen jedoch leer. Doch nicht mehr lange. Im Mai 2023 ist ein Projekt im Westflügel des Klosters angelaufen. “Das Zentrum für Arbeit und Stille” soll in Zukunft ein Ort für ruhesuchende Menschen werden und auch Übernachtungsmöglichkeiten anbieten. Es gibt auch bereits erste Pläne, wie das ganze Gebäude nach der Schwesternschaft genutzt werden soll. Den Schwestern ist dabei wichtig, Mitspracherecht bei der Planung zu haben.
 
 
 
-Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.
+###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -59,8 +69,8 @@ Bei einer kleinen Kaffeepause wird über die nächsten Tage gesprochen, denn es 
 
 
 
-Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.
+###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
-Christus mansionem benedicat - Gott segne dieses Haus
+###*Christus mansionem benedicat - Gott segne dieses Haus*
 
-Amen.
+###*Amen.*
