@@ -63,11 +63,7 @@ Im ersten Stock befinden sich die Zellen, die Schlafzimmer. Viele von ihnen steh
 
 
 
-{{<box>}}
-
-Im Kapuzinerinnenkloster Namen Jesú lebt die Schwesterngemeinschaft seit 1609. Jahrhunderte lang lebte der Orden fernab der Gesellschaft. Aufgrund des hohen Alters sind die Schwestern heute auf externe Hilfe angewiesen. So geht es heute den meisten Klöstern. Kaum noch haben junge Menschen Interesse an einem ewigen Gelübde. Man konnte in den letzten Jahren ein  Wachstum an religionslosen Menschen erkennen. Klöster sind ein Spiegel unserer Gesellschaft und daher ist es nur nachvollziehbar, dass es bei einer Gesellschaft im Wandel auch einen solchen im Kloster geben muss. Klöster kämpfen ums Überleben und öffnen sich immer mehr. Sie bieten Urlaub oder  Bildungsmöglichkeiten an, um sich eine Relevanz in unserer schnelllebigen Zeit zu verschaffen.
-
-{{<box>}}
+{{<box>}}Im Kapuzinerinnenkloster Namen Jesú lebt die Schwesterngemeinschaft seit 1609. Jahrhunderte lang lebte der Orden fernab der Gesellschaft. Aufgrund des hohen Alters sind die Schwestern heute auf externe Hilfe angewiesen. So geht es heute den meisten Klöstern. Kaum noch haben junge Menschen Interesse an einem ewigen Gelübde. Man konnte in den letzten Jahren ein  Wachstum an religionslosen Menschen erkennen. Klöster sind ein Spiegel unserer Gesellschaft und daher ist es nur nachvollziehbar, dass es bei einer Gesellschaft im Wandel auch einen solchen im Kloster geben muss. Klöster kämpfen ums Überleben und öffnen sich immer mehr. Sie bieten Urlaub oder  Bildungsmöglichkeiten an, um sich eine Relevanz in unserer schnelllebigen Zeit zu verschaffen.{{<box>}}
 
 
 
