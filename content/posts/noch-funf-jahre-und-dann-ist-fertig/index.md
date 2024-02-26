@@ -13,6 +13,8 @@ Mia Flühmann und Line Gmür
 
 Kloster Namen Jesú, Solothurn. Die Uhr tickt. Ansonsten herrscht im Sprechzimmer des Klosters völlige Stille. Über der Uhr hängt ein schlichtes Jesuskreuz, das an der dunklen Holzwand kaum auffällt. Durch die Fenstergitter fällt das schwache Licht der Dezembersonne in den Raum. Auf der Bank vor dem Fenster sitzt Schwester Therese. Etwas nervös sucht sie die perfekte Position für ihre Hände und zupft an ihrem Gewand herum. Einzelne Haarsträhnen fallen aus ihrem selbstgemachten, altrosa-farbenen Kopftuch. Schwester Therese ist 82 Jahre alt und lebt bereits seit dreissig Jahren in dieser Gemeinschaft. Vorher lernte sie in ihrer Heimat Nordrhein-Westfalen Krankenpflegerin, doch schon mit 21 Jahren entschied sie sich für ein Leben im Kloster. Erst lebte sie in einem Kloster in Deutschland, aber als sich die Schwesternschaft nicht mehr gut verstand, fand Schwester Therese im Kloster Namen Jesú ihr neues Zuhause. Wie jedoch die Zukunft ihres Zuhauses aussehen wird, ist noch ungewiss.
 
+
+
 **Hätten Sie als Jugendliche gedacht, dass Sie später in einem Kloster leben würden?**
 
 Ja, das war bereits als Jugendliche mein Wunsch. Ich bin in einer katholischen Familie aufgewachsen, aber wir haben nie über den Glauben gesprochen. Wir sechs Kinder gingen alle in die Kirche. Es war klar, dass wir jeden Sonntag hingehen. Wir haben nie nachgefragt. Später hatte ich eine Freundin, die in ihrem Elternhaus viele Glaubensgespräche geführt hat. Mit ihr zusammen habe ich dann auch über den Glauben gesprochen. Da waren wie vierzehn und haben beide Krankenpflegerin gelernt. Sie ist später auch in ein Kloster gegangen, aber ein anderes als ich. Dort lebt sie bis heute noch.
