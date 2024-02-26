@@ -15,12 +15,12 @@ Mia Flühmann und Line Gmür
 Das Läuten der Glocke hallt durch weitläufige Gänge. Mit dem letzten Schlag kehrt wieder Stille ein. Eine Stille, die für die Bewohnerinnen dieses Gemäuers alltäglich ist. Kurze Zeit darauf hört man von verschiedenen Seiten schlurfende Schritte, die alle das gleiche Ziel haben: das Gebetszimmer. In einem Zimmer mit Wänden, die dem Raum einen holzigen Geruch verleihen, finden sich vier Frauen ein. Bedächtig verbeugt sich eine nach der anderen vor dem Kreuz, bevor sie auf den kissenlosen Holzbänken Platz nehmen. Bis auf Husten und Atmen ist nichts zu hören. Als Letzte betritt Frau Mutter, die Oberin, den Raum. Sie nimmt als Einzige auf einem gepolsterten Stuhl Platz und läutet mit der Klangschale das Mittagsgebet im Kloster Namen Jesú in Solothurn ein.
 
 
-###*Herr Jesus Christus, du Anfang und Ende unserer Wege*\
-###*Wir wollen mit dir beginnen*\
-###*Es sind die alten Wege, die damals gegangen*\
-###*als du mit uns anfingst in der Taufe*
+#### *Herr Jesus Christus, du Anfang und Ende unserer Wege*\
+#### *Wir wollen mit dir beginnen*\
+#### *Es sind die alten Wege, die damals gegangen*\
+#### *als du mit uns anfingst in der Taufe*
 
-###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+#### *Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -31,7 +31,7 @@ An den Esssaal grenzt eine geräumige Küche. Der Edelstahl glänzt und alles wi
 
 
 
-###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+#### *Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -40,7 +40,7 @@ Mit einem Batch öffnet Schwester Therese die Tür zum hauseigenen Museum. In ei
 
 
 
-###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+#### *Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -59,7 +59,7 @@ Im ersten Stock befinden sich die Zellen, die Schlafzimmer. Viele von ihnen steh
 
 
 
-###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+#### *Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
 
 
@@ -69,8 +69,8 @@ Bei einer kleinen Kaffeepause wird über die nächsten Tage gesprochen, denn es 
 
 
 
-###*Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
+#### *Weise mir, Herr, deinen Weg. Ich will ihn gehen in Treue zu dir.*
 
-###*Christus mansionem benedicat - Gott segne dieses Haus*
+#### *Christus mansionem benedicat - Gott segne dieses Haus*
 
-###*Amen.*
+#### *Amen.*
