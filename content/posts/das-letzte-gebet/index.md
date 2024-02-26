@@ -3,7 +3,7 @@ title = "Das letzte Gebet"
 date = "2024-02-14"
 draft = false
 pinned = false
-image = ""
+image = "lets-go.jpeg"
 description = "\n\n\n\n"
 +++
  {{<lead>}}Früher belebten über dreissig junge Schwestern das Kloster Namen Jesú. Heute sitzen noch fünf am oberen Ende des langen Tisches. In einer schnelllebigen Zeit, wo lebenslange Verpflichtungen kaum noch Bedeutung haben, steht die Gemeinschaft vor ihrem unausweichlichen Ende. Doch wie blicken die Schwestern der Zukunft entgegen und was geschieht mit ihrem langjährigen Zuhause?{{</lead>}}
